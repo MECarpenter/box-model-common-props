@@ -514,6 +514,7 @@ box-shadow: var(--box-shadow-sm);
 */
 #section4 p:last-of-type{
 
+margin: 1rem 0;
 }
 
 /* ------------- SECTION 5 STYLES ---------------- */
@@ -550,6 +551,8 @@ box-shadow: var(--box-shadow-sm);
         - add the puppy-photo as a repeating background to the container
 */
 #bg-img-3{
+    background-color: var(--lt-blue) center url("images/puppy-photo.jpg");
+
     
 }
 
